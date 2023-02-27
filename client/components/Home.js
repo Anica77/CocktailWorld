@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { connect } from "react-redux";
 import SelectSpirit from "./SelectSpirit";
 import { Link } from "react-router-dom";
